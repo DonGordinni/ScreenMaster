@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "drawer-navigation-example",
+    "slug": "snack-a0be0bdd-3cd4-4b89-9e95-c1f10b4ca49a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mainIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashWelcome.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/mainIcon.png"
+    }
+  }
+}
